@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "5b0051259781e1f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d92538535ff92b10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83284c55b200b62e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "getee.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24069a0317e3d15f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7311e73f4e297af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "463641ccef540ef6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bed69a1738b3d703",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ecc02642b09513c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1c5e22310bac904",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e362aef62a24f8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da75a4482460f437",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "getee.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e61daad15483e39f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "getee.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bc1d4905f3e5262",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20519b699041fde4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "getee.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "83284c55b200b62e",
+  "lastOpenFiles": [
+    "giteetest/README.md",
+    "giteetest",
+    "giteetest/242.md",
+    "giteetest/giteetest/README.md",
+    "getee.md",
+    "New Text Document.MD",
+    "README.md",
+    "sh -T git@gitee.com",
+    "giteetest/giteetest",
+    "New Text Document.txt",
+    "New Folder"
+  ]
+}
